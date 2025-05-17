@@ -9,6 +9,9 @@ This project demonstrates automatic colorization of black and white images using
 Colorizing grayscale images enhances their realism and historical appeal. This project uses a pretrained model from OpenCV that was trained on the ImageNet dataset to predict color (ab channels) for grayscale input images (L channel). A user-friendly web interface is provided to upload images and view results.
 
 ---
+## Demo
+(https://github.com/shreyas162424/color-old-black-and-white-images-using-autoencoder/blob/main/color.mp4)
+---
 
 ## 📁 Project Structure
 
