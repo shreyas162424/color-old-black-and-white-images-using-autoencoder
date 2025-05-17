@@ -14,6 +14,7 @@ Colorizing grayscale images enhances their realism and historical appeal. This p
 
 ```
 ImageColorizationProject/
+|--Images/                     #Images Folder
 ├── colorize.py                # Flask backend
 ├── templates/index.html                 # Frontend UI
 └── model/
@@ -124,7 +125,7 @@ Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser. Upload a g
 
 ## 👨‍💼 Author
 
-* Developed by: \[Your Name]
+* Developed by: \[Shreyas Sangalad]
 * Under the guidance of: Mrs. Roopa M J, SJBIT, Bangalore
 
 ---
