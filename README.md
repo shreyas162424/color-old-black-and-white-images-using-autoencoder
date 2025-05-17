@@ -130,7 +130,7 @@ Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser. Upload a g
 
 ## 👨‍💼 Author
 
-* Developed by: \[Shreyas Sangalad]
+* Developed by: Shreyas Sangalad
 * Under the guidance of: Mrs. Roopa M J, SJBIT, Bangalore
 
 ---
