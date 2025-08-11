@@ -10,7 +10,7 @@ Colorizing grayscale images enhances their realism and historical appeal. This p
 
 ---
 ## Demo
-![Click to Download Demo Video]([color.mp4](https://github.com/shreyas162424/color-old-black-and-white-images-using-autoencoder/blob/main/color.mp4))
+![Click to Download Demo Video](https://github.com/shreyas162424/color-old-black-and-white-images-using-autoencoder/blob/main/color.mp4?raw=true)
 
 
 ---
